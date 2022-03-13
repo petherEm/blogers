@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+blogers/node_modules
+blogers/dist
+
+
 # testing
 /coverage
 
